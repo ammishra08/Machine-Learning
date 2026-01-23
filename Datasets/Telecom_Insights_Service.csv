@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_cost,data_limit_gb,voice_minutes,sms_limit
+1,Basic Plan,19.99,5,300,100
+2,Standard Plan,39.99,15,900,300
+3,Premium Plan,59.99,50,2000,1000
+4,Unlimited Plan,79.99,100,5000,5000
